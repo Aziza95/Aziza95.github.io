@@ -1,0 +1,62 @@
+* {
+    /* reset padding, margin on all elements */
+    padding: 0px;
+    margin: 0px;
+    /* hide overflow to remove scroller in the browser */
+    overflow: hidden;
+}
+
+fieldset {
+    background-color: lightgray;
+    padding: 10px;
+    padding-bottom: 30px;
+    float: none;
+    position: absolute;
+    opacity: 0.9;
+    border: lightgray;
+} 
+
+#clear {
+    background-color: red;
+    font-size: 1rem;
+    color: white;
+    padding: 15px;
+    font-family: "Comic Sans MS";
+    border: solid 2px black ;
+}
+
+#black-button {
+    background-color: lightblue;
+    font-size: 1rem;
+    color: black;
+    padding: 15px;
+    font-family: "Comic Sans MS";
+    border: solid 2px black ;
+}
+
+#white-button {
+    background-color: yellow;
+    font-size: 1rem;
+    color: black;
+    padding: 15px;
+    font-family: "Comic Sans MS";
+    border: solid 2px black ;
+}
+
+
+#color {
+    background-color: purple;
+    font-size: 1rem;
+    color: white;
+    padding: 15px;
+    font-family: "Comic Sans MS";
+    border: solid 2px black ;
+}
+
+label {
+    background-color: white;
+    padding: 15px;
+    color: black;
+    font-family: "Comic Sans MS";
+    border: solid 2px black; 
+}
