@@ -6,6 +6,11 @@
     overflow: hidden;
 }
 
+#canvas {
+    
+  border:black 3px solid;
+}
+
 fieldset {
     background-color: lightgray;
     padding: 10px;
